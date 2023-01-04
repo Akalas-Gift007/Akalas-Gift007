@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Akalas-Gift007
-- 👀 I’m interested in mobile web
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Projects related to mobile web
+- 👀 I’m currently undergoing alx programme to be a backend software engineer
 - 📫 How to reach me Facebook As Akalas Zita
 
 <!---
